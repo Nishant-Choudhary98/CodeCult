@@ -1,4 +1,4 @@
-<h1>CodeCult Resorces and stuff</h1>
+<h1>CodeCult Resources and stuff</h1>
 
 CodeCult is an online community for discussion related to Computer Science Field, Competitive Programming and mathematics.
 All the resources, books, and links shared in CodeCult are available in this repository.
